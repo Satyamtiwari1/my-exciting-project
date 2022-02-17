@@ -1,3 +1,3 @@
 #!/bin/python
 # This is an awesome Python script
-print('Hello! world, hope you are doing well!')
+print('Hello! world, we are on!')
